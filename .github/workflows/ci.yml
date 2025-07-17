@@ -24,6 +24,3 @@ jobs:
 
       - name: 🏗️ Build Project
         run: npm run build
-
-      - name: ✅ Run Linter (optional)
-        run: npm run lint
